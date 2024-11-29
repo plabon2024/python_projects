@@ -6,3 +6,5 @@ Welcome to my collection of **Beginner CLI Projects** in Python! This repository
 
 Below is the list of projects included in this repository:
 1. **Basic Calculator**: Perform addition, subtraction, multiplication, and division.
+2. **Temperature Converter**:: Convert temperatures between Celsius, Fahrenheit, and Kelvin.
+
